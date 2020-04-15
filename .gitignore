@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/*
+/Data/*
+/Model/*
+/RTL_features/*
+/__pycache__/*

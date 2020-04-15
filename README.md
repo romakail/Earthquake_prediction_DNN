@@ -1,2 +1,2 @@
-# Earthquake_prediction_DNN
-Earthquakes prediction using deep neural networks prediction.
+# IITP_earthquakes
+Project about predicting earthquakes in Japan
