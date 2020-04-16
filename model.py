@@ -2,11 +2,6 @@ import torch
 import torch.nn as nn
 from torch.autograd import Variable
 
-N_CYCLES = 1
-LEARNING_RATE = 0.0003
-LR_DECAY = 10.
-EARTHQUAKE_WEIGHT = 10000.
-
 EMB_SIZE = 16
 HID_SIZE = 32
 
